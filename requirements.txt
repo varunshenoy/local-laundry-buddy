@@ -1,0 +1,2 @@
+llama_cpp_python==0.2.19
+colorama==0.4.6
